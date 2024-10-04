@@ -1,0 +1,8 @@
+/* Set the width of the popup */
+body {
+  width: 400px; /* Adjust the width as needed */
+}
+/* Add padding or margin to the mute button */
+button {
+  margin-left: 10px; /* Adjust the margin as needed */
+}

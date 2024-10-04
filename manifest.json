@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Audible Tabs Finder",
+  "version": "1.0",
+  "description": "Find and list all tabs that are playing sound.",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+}

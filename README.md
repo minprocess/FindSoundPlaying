@@ -1,0 +1,2 @@
+##Description
+This extension has the name "Audible Tabs Finder" in the Extensions menu. When it starts it automatically finds the tabs that have audible sound and creates a list of those tabs with audible sound. If you click on a link the browser will open that tab so you can stop of the video or possible mute the sound. 
